@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "StudyManager",
+    "slug": "studymanager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#2563EB"
+    },
+    "android": {
+      "package": "com.studymanager.app",
+      "usesCleartextTraffic": true
+    },
+    "ios": {
+      "supportsTablet": false
+    }
+  }
+}
